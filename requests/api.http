@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl" : "https://www.amazon.in/OGIO-Renegade-Laptop-Back-Pack/dp/B0076D099Q/ref=pd_rhf_ee_s_pd_crcd_3/261-1733571-9090466?pd_rd_w=5WU7w&pf_rd_p=a62021ef-ed94-4c60-92cc-5878fb8afd3c&pf_rd_r=N1S69VKFQSZY63G1VW2R&pd_rd_r=bf71cfb4-33e3-4bd5-a37b-c3ff4fee7ea0&pd_rd_wg=fxzi9&pd_rd_i=B0076D099Q&psc=1"
+}

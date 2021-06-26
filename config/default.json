@@ -1,0 +1,5 @@
+{
+    "mongoURI" :"mongodb+srv://hiral:hiral2727@testcluster1.q6fap.mongodb.net/url_shorten?retryWrites=true&w=majority",
+    "baseUrl" : "http://localhost:5000"
+
+}
